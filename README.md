@@ -1,10 +1,10 @@
 # CSC3150-Operating-System  
 Here are some projects I done when I took this course. I hope these materials can help you guys.  
 ## Scores:  
-Assignmwnt1: 100  
-Assignment2: 108  
-Assignment3: 115  
-Assignment4: 115  
+Assignmwnt1: 100/110  
+Assignment2: 108/110  
+Assignment3: 115/115  
+Assignment4: 115/115  
 
 ## Breif introductuons of four projects:  
 Assignment1: Fork a child process to execute the test program in user mode and kernel mode.  
